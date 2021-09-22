@@ -1,1 +1,1 @@
-git pull github-server
+git pull main
