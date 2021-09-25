@@ -1,3 +1,3 @@
 git add .
-git commit -m "updated on %date% # hwclock -r"
+git commit -m "updated on %date%"
 git push origin master
